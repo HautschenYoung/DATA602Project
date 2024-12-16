@@ -144,7 +144,7 @@ class RobloxGameScraper:
 if __name__ == "__main__":
     scraper = RobloxGameScraper()
 
-    # Session ID (replace with an actual session ID from your Network panel)
+    # Session ID
     session_id = "4c77f6d0-a42c-4b37-9ca2-42ce3ca0800f"
 
     # Step 1: Fetch game IDs and basic data using API
